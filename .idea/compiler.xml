@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="textRecommend-manage" />
+        <module name="textRecommend-startup" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="textRecommend" target="1.8" />
+      <module name="textRecommend-manage" target="1.8" />
+      <module name="textRecommend-startup" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="textRecommend-manage" options="-parameters -extdirs D:\workspace\textRecommender\textRecommend-manage/src/lib" />
+      <module name="textRecommend-startup" options="-parameters" />
+    </option>
+  </component>
+</project>

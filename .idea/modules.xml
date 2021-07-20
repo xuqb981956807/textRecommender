@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/textRecommend.iml" filepath="$PROJECT_DIR$/textRecommend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textRecommend-manage/textRecommend-manage.iml" filepath="$PROJECT_DIR$/textRecommend-manage/textRecommend-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textRecommend-startup/textRecommend-startup.iml" filepath="$PROJECT_DIR$/textRecommend-startup/textRecommend-startup.iml" />
+    </modules>
+  </component>
+</project>
